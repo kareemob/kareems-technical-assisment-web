@@ -37,7 +37,6 @@ Hello👋, Welcome to My technical assessment :)
 
 - 💪 You can dynamically run this repo in chrome of firefox, **Ex:** ```mvn clean test -Dbrowser=chrome```  .
 
-- 💪 Run ```allure serve allure-results``` To generete the Report.
 
 
 
